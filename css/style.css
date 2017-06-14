@@ -8,9 +8,6 @@ img, video, audio, iframe, table, form {
 
 /*/////// LAYOUT STYLES ////////*/
 
-div#main_div {
- background-color: blue !important;
-}
 .row {
   margin-bottom: 20px;
 }
